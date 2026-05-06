@@ -2,10 +2,10 @@
 
 *Topics Practiced*
 
-SELECT
-WHERE
-ORDER BY
-GROUP BY
+SELECT,
+WHERE,
+ORDER BY,
+GROUP BY,
 
 **Platform Used**
 
