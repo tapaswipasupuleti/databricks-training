@@ -5,7 +5,7 @@
 SELECT,
 WHERE,
 ORDER BY,
-GROUP BY,
+GROUP BY
 
 **Platform Used**
 
