@@ -23,6 +23,8 @@
 - Worked with CTEs and recursive CTEs
 - Calculated running totals and moving averages
 
-**Learnings**
+ ###Learnings
+
+
 Today I practiced advanced SQL concepts including window functions and Common Table Expressions. I learned how to rank records using ROW_NUMBER, RANK, and DENSE_RANK, calculate cumulative totals using OVER(), and analyze sequential data using LAG and LEAD functions. I also practiced recursive CTEs and multi-step SQL query building.
 
